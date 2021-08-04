@@ -1,2 +1,3 @@
 Hi this is test line
 Hi this code already merged
+Hi this is next line text
